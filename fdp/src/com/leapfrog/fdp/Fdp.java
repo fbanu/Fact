@@ -48,7 +48,7 @@ public class Fdp {
                 total = x / y;
             } else if (choice == 5) {
                 total = 0;
-            } else if (choice == 7) {
+            } else if (choice == 6) {
                 System.exit(0);
             }
             System.out.println("Total is " + total);
