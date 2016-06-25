@@ -1,0 +1,2 @@
+# Fact
+factory design patter
